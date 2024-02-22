@@ -1,5 +1,5 @@
 <template>
-	<div>Something text for check component</div>
+  <div>Something text for check component</div>
 </template>
 
 <!--<script lang="ts" setup>
