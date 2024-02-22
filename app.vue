@@ -2,6 +2,6 @@
   <div>
     <div>1</div>
     <TestComponentVue />
-    <div>2</div>
+    <div>3</div>
   </div>
 </template>
