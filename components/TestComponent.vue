@@ -3,11 +3,18 @@
 </template>
 
 <script lang="ts" setup>
-const a = 1;
+const a = "1";
+const b = "1";
+
+
 </script>
+
 
 <style lang="scss">
 div {
-	color: red;
+	font-size: 2rem;;
+  background:red;
+
+
 }
 </style>
