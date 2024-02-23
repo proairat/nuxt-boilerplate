@@ -2,12 +2,13 @@
   <div>Something text for check component</div>
 </template>
 
-<!--<script lang="ts" setup>
+<script lang="ts" setup>
 
-</script>-->
+
+</script>
 
 <style lang="scss">
 div {
-	color: red;
+	color: red
 }
 </style>

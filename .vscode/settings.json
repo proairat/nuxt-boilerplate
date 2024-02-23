@@ -1,10 +1,22 @@
 {
-	"scss.validate": false,
 	"css.validate": false,
 	"less.validate": false,
+	"scss.validate": false,
 	"editor.formatOnSave": false,
 	"editor.codeActionsOnSave": {
-		"source.fixAll.stylelint": "always",
-		"source.fixAll.eslint": "always"
-	}
+		"source.fixAll.eslint": "explicit",
+		"source.fixAll.stylelint": "explicit"
+	},
+	"stylelint.enable": true,
+	"stylelint.validate": ["css", "scss", "vue"],
+	/*"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"vue",
+		"html",
+ 		"markdown",
+		"yaml"
+	],*/
 }
