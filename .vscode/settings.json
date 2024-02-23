@@ -1,14 +1,14 @@
 {
-	/*"css.validate": false,
+	"css.validate": false,
 	"less.validate": false,
 	"scss.validate": false,
-	"editor.formatOnSave": false,*/
+	"editor.formatOnSave": false,
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": "explicit",
 		"source.fixAll.stylelint": "explicit"
 	},
-	"editor.codeActionsOnSaveTimeout": 5000,
-	"CodeGPT.apiKey": "CodeGPT Plus Beta",
+	"stylelint.enable": true,
+	"stylelint.validate": ["css", "scss", "vue"],
 	/*"eslint.validate": [
 		"javascript",
 		"javascriptreact",

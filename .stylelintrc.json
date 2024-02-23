@@ -1,0 +1,9 @@
+{
+	"extends": [
+		"stylelint-config-standard",
+		"stylelint-config-standard-scss",
+		"stylelint-config-rational-order",
+		"stylelint-config-recommended-vue",
+		"stylelint-config-recommended-vue/scss"
+	]
+}
