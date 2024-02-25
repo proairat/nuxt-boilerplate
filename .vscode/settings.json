@@ -9,7 +9,7 @@
 	},
 	"stylelint.enable": true,
 	"stylelint.validate": ["css", "scss", "vue"],
-	/*"eslint.validate": [
+	"eslint.validate": [
 		"javascript",
 		"javascriptreact",
 		"typescript",
@@ -17,6 +17,6 @@
 		"vue",
 		"html",
  		"markdown",
-		"yaml"
-	],*/
+		"yaml",
+	],
 }
