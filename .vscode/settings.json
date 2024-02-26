@@ -16,7 +16,6 @@
 		"typescriptreact",
 		"vue",
 		"html",
- 		"markdown",
-		"yaml",
+ 		"yaml",
 	],
 }

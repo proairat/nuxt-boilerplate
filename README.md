@@ -1,3 +1,18 @@
+# Boilerplate for Nuxt projects
+
+Autofix errors when saving *.vue files in \<template\> (ESlint), \<script\> (ESlist), \<style\> (Stylelint) sections when working in VS Code IDE.
+
+Packages:
+- Nuxt 3
+- ESlint 8
+- Husky 9
+- Lint Staged 15
+- Stylelint 16
+- TypeScript 5
+- PostCSS 8
+- Commitlint 18
+---
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
