@@ -1,6 +1,6 @@
 # Boilerplate for Nuxt projects
 
-Autofix errors when saving *.vue files in \<template\> (ESlint), \<script\> (ESlist), \<style\> (Stylelint) sections when working in VS Code IDE.
+Autofix errors when saving *.vue files in \<template\> (ESlint), \<script\> (ESlint), \<style\> (Stylelint) sections when working in VS Code IDE.
 
 Packages:
 - Nuxt 3
