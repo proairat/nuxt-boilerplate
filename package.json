@@ -3,7 +3,7 @@
 	"version": "0.0.1",
   "author": "Shayakhmetov Airat Irekovich",
   "license": "UNLICENSED",
-	"private": true,
+	"private": false,
 	"type": "module",
 	"scripts": {
 		"build": "nuxt build",
