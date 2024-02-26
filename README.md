@@ -38,6 +38,5 @@ yarn build
 Locally preview production build:
 
 ```bash
-# yarn
 yarn preview
 ```
